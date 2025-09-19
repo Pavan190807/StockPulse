@@ -3,8 +3,7 @@ yfinance
 pandas
 numpy
 matplotlib
-seaborn
+plotly
 scikit-learn
 transformers
 torch
-requests
